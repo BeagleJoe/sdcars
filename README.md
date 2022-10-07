@@ -8,7 +8,7 @@ This package contains car-mods for the open source racing game [Speed Dreams](ht
 
 We currently count **66** playable cars in this package.
 
-**[Download it now!](https://github.com/longtomjr/sdcars/archive/master.zip)**
+**[Download it now!](https://github.com/beaglejoe/sdcars/archive/master.zip)**
 
 
 Included car-mods previews
